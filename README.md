@@ -1,5 +1,6 @@
 # SC1015---Data-Science-AI
 
+/b Breadth First Search Algorithm \b
 breadth first search algorithm is complete but is not optimal. BFS will always find a solution if one exists but since it does not take into account the cost of the path from the start state tot he curent state, in other words, BFS will find the shortest from the start state to the goal state only if all edge costs are equal.
 
 Ways to increase efficiency:
